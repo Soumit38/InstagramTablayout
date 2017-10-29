@@ -1,4 +1,3 @@
 # Tablayout
 
-working with tabs
-added icons, top and bottom navigation bar
+working with tabs, Instagram like icons, top and bottom navigation bar
